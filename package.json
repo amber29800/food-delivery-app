@@ -1,0 +1,32 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "Swiggy clone",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amber29800"
+  },
+  "author": "Amber Srivastava",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.21.0",
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.27",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.3.3"
+  },
+  "browserslist": [
+    "last 5 Chrome version"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.9.0",
+    "styled-components": "^5.3.6"
+  }
+}
